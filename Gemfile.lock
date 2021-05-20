@@ -81,7 +81,7 @@ GEM
     pg (1.2.3)
     puma (3.12.1)
     racc (1.5.2)
-    rack (2.0.7)
+    rack (2.2.3)
     rack-attack (6.0.0)
       rack (>= 1.0, < 3)
     rack-cors (1.0.3)
